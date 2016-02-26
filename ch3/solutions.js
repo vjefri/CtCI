@@ -49,9 +49,7 @@ SetOfStacks.prototype.size = function() {
 // temp.push(5);
 // temp.push(6);
 // temp.push(7);
-// temp.pop();
-// temp.pop();
-// temp.pop();
+
 
 
 // console.log(JSON.stringify(temp));
